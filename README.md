@@ -1,7 +1,7 @@
 # STM32 Robotic Controller
 
 ## The top view
-![](docs/posterimage.png)
+![](docs/posterimage.PNG)
 
  ## Side view
- ![](docs/posterdiagonal.png)
+ ![](docs/posterdiagonal.PNG)
