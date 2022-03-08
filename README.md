@@ -3,5 +3,5 @@
 ## The top view
 ![](docs/posterimage.png)
 
- ## Side view
+ ## The diagonal view
  ![](docs/posterdiagonal.png)
