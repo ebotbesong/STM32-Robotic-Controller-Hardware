@@ -10,3 +10,6 @@
  ## top view 
  <img src='docs/posterimage.PNG' width='800'>
 >>>>>>> 053c9e11b530cf7ceac77293f31802c97c4bb469
+
+## The PCB layout
+<img src='docs/pcb layout.PNG' width='800'>
