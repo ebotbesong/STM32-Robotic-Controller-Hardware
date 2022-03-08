@@ -2,7 +2,6 @@
 
 ## Isometric view 
 <img src='docs/posterdiagonal.PNG' width='800'>
-
 <<<<<<< HEAD
  ## The diagonal view
  ![](docs/posterdiagonal.png)
