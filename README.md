@@ -1,5 +1,5 @@
 # STM32 Robotic Controller
-STM32F103C8T6 microcontroller was used for the board design. The STM32F103C8T6 i9s medium density performance line, ARM Cortex-M3 32bit microcontroller in 48 pin LQFP package. It incorporates high performance RISC core with 72MHz operating frequency, high speed embedded memories, extensive range of enhanced I/)s and peripherals connected buses.
+STM32F103C8T6 microcontroller was used for the board design. The STM32F103C8T6 i9s medium density performance line, ARM Cortex-M3 32bit microcontroller in 48 pin LQFP package. It incorporates high performance RISC core with 72MHz operating frequency, high speed embedded memories, extensive range of enhanced I/Os and peripherals connected buses.
 ## Isometric view
 <img src='docs/posterdiagonal.PNG' width='800'>
 <<<<<<< HEAD
