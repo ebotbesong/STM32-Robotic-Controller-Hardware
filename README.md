@@ -4,6 +4,8 @@ This project introduces a simple design of a PCB board layout for robotics appli
 The designed board can be used as an alternative to the well known and documented Arduino and raspberry pie hardware. Also, the provided design can be modify to add more memory if needed. This however increases the complexity of the hardware.
 
 ## Isometric view
+The USB type use is the microUSB. This can be change to USB type-C which is becoming the de facto standard nowadays.
+
 <img src='docs/posterdiagonal.PNG' width='800'>
 
 
