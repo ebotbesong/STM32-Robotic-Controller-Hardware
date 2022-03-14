@@ -18,3 +18,5 @@ The MicroUSB is used but this can be change to USB type-C which is becoming the 
 The PCB layout was done using the KICAD EDA version 5.61 and the design is opensource with the design files provided for download in the folder "docs" of the main repository shown above. Advanced version of the KICAD EDA can also be used to open the design files.
 
 <img src='docs/pcb layout.PNG' width='600'>
+
+The project website is  https://ebotbesong.github.io/STM32-Robotic-Controller-Hardware/
