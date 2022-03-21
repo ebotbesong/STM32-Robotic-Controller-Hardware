@@ -15,7 +15,7 @@ The MicroUSB is used but this can be change to USB type-C which is becoming the 
  <img src='docs/posterimage.PNG' width='600'>
 
 ## The PCB layout
-The PCB layout was done using the KICAD EDA version 5.61 and the design is opensource with the design files provided for download in the folder "docs" of the main repository shown above. Advanced version of the KICAD EDA can also be used to open the design files.
+The PCB layout was done using the KICAD EDA version 5.61 and the design is opensource. All design files are provided for download and can be found in the folder "docs" of the main repository shown above. Advanced version of the KICAD EDA can also be used to open the design files.
 
 <img src='docs/pcb layout.PNG' width='600'>
 
