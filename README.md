@@ -10,7 +10,7 @@ The MicroUSB is used but this can be change to USB type-C which is becoming the 
 
 
  ## Top view
- There is provision for I2C and UART connector in the design. These bus lines can both be used.
+ There is provision for I2C and UART connector in the design. Therefore both the I2C and UART bus lines can be used for control interfaces.
 
  <img src='docs/posterimage.PNG' width='600'>
 
